@@ -2,13 +2,15 @@
 
 /*
 	cuando arraca el programa (servidor escuchando y cliente mandando info) la clave valor y el contenido que le pasemos antes 
-	de mandarle un mensaje vacío se va a almcacenar en el archivo de log
+	de mandarle un mensaje vacío se va a almcacenar en el archivo de log pero no se va a mostrar en ninguna consola.
+	(ese contenido no se va a guardad en ningun paquete sino unicamente en el archivo log DEL CLIENTE)
 
-	volvemos a poder ingresar mensajes hasta volvera  ingresar un mensaje vacío
+	volvemos a poder ingresar mensajes hasta volvera ingresar un mensaje vacío
 	una vez que le mandamos un mensaje vacío se va a enviar el paquete al servidor y va a mostrar por consola (del servidor)
-	los mensajes que ingresamos en ese paquete
+	los mensajes que ingresamos en ese paquete. Ademas de guardarse en el archivo log DEL SERVIDOR.
 
 	En otras palabras de esto ultimo:
+	Primer ingreso de info se guarda en el log del cliente y le envía solo mensajes especificos (clave y saludo) al servidor
 	una vez que el servidor lo recibe lo va a loguear y va a imprimir en consola el contenido del paquete
 */ 
 
