@@ -1,0 +1,69 @@
+[INFO] 16:17:51:363 Servidor/(7567:7567): Servidor listo para recibir al cliente
+[INFO] 16:18:13:124 Servidor/(7662:7662): Servidor listo para recibir al cliente
+[INFO] 16:18:20:944 Servidor/(7662:7662): Se conecto un cliente!
+[INFO] 16:18:20:944 Servidor/(7662:7662): Me llego el mensaje valor
+[ERROR] 16:18:22:480 Servidor/(7662:7662): el cliente se desconecto. Terminando servidor
+[INFO] 16:30:54:528 Servidor/(8366:8366): Servidor listo para recibir al cliente
+[INFO] 16:30:59:840 Servidor/(8366:8366): Se conecto un cliente!
+[INFO] 16:30:59:840 Servidor/(8366:8366): Me llego el mensaje valor
+[ERROR] 16:31:02:528 Servidor/(8366:8366): el cliente se desconecto. Terminando servidor
+[INFO] 16:34:52:704 Servidor/(8711:8711): Servidor listo para recibir al cliente
+[INFO] 16:35:01:355 Servidor/(8711:8711): Se conecto un cliente!
+[INFO] 16:35:01:355 Servidor/(8711:8711): Me llego el mensaje valor
+[INFO] 16:35:05:361 Servidor/(8711:8711): Me llegaron los siguientes valores:
+
+[ERROR] 16:35:05:361 Servidor/(8711:8711): el cliente se desconecto. Terminando servidor
+[INFO] 16:52:15:303 Servidor/(9082:9082): Servidor listo para recibir al cliente
+[INFO] 16:52:24:294 Servidor/(9082:9082): Se conecto un cliente!
+[INFO] 16:52:24:294 Servidor/(9082:9082): Me llego el mensaje valor
+[INFO] 16:52:29:341 Servidor/(9082:9082): Me llegaron los siguientes valores:
+
+[INFO] 16:52:29:342 Servidor/(9082:9082): jaja
+[ERROR] 16:52:29:342 Servidor/(9082:9082): el cliente se desconecto. Terminando servidor
+[INFO] 17:02:52:019 Servidor/(9345:9345): Servidor listo para recibir al cliente
+[INFO] 17:02:56:174 Servidor/(9345:9345): Se conecto un cliente!
+[INFO] 17:02:56:174 Servidor/(9345:9345): Me llego el mensaje valor
+[INFO] 17:03:03:350 Servidor/(9345:9345): Me llegaron los siguientes valores:
+
+[INFO] 17:03:03:351 Servidor/(9345:9345): hola
+[INFO] 17:03:03:351 Servidor/(9345:9345): como
+[INFO] 17:03:03:351 Servidor/(9345:9345): estas
+[INFO] 17:03:03:351 Servidor/(9345:9345): loqui loqui
+[ERROR] 17:03:03:352 Servidor/(9345:9345): el cliente se desconecto. Terminando servidor
+[INFO] 17:03:31:888 Servidor/(9494:9494): Servidor listo para recibir al cliente
+[INFO] 17:03:38:673 Servidor/(9494:9494): Se conecto un cliente!
+[INFO] 17:03:38:673 Servidor/(9494:9494): Me llego el mensaje valor
+[INFO] 17:03:40:655 Servidor/(9494:9494): Me llegaron los siguientes valores:
+
+[INFO] 17:03:40:656 Servidor/(9494:9494): aaa
+[INFO] 17:03:40:656 Servidor/(9494:9494): a
+[INFO] 17:03:40:656 Servidor/(9494:9494): a
+[INFO] 17:03:40:656 Servidor/(9494:9494): a
+[ERROR] 17:03:40:656 Servidor/(9494:9494): el cliente se desconecto. Terminando servidor
+[INFO] 17:14:21:046 Servidor/(9736:9736): Servidor listo para recibir al cliente
+[INFO] 17:14:41:082 Servidor/(9736:9736): Se conecto un cliente!
+[INFO] 17:14:41:082 Servidor/(9736:9736): Me llego el mensaje valor
+[INFO] 17:15:11:728 Servidor/(9736:9736): Me llegaron los siguientes valores:
+
+[INFO] 17:15:11:728 Servidor/(9736:9736): una vez que aprete enter
+[INFO] 17:15:11:728 Servidor/(9736:9736): se envio el mensaje valor al server 
+[INFO] 17:15:11:728 Servidor/(9736:9736): pero no estoy guardando info en el log del cliente
+[ERROR] 17:15:11:729 Servidor/(9736:9736): el cliente se desconecto. Terminando servidor
+[INFO] 17:17:06:586 Servidor/(9993:9993): Servidor listo para recibir al cliente
+[INFO] 17:18:47:839 Servidor/(9993:9993): Se conecto un cliente!
+[INFO] 17:18:47:839 Servidor/(9993:9993): Me llego el mensaje valor
+[INFO] 17:19:29:234 Servidor/(9993:9993): Me llegaron los siguientes valores:
+
+[INFO] 17:19:29:234 Servidor/(9993:9993): lo que ingrese
+[INFO] 17:19:29:235 Servidor/(9993:9993): solo
+[INFO] 17:19:29:235 Servidor/(9993:9993): se
+[INFO] 17:19:29:235 Servidor/(9993:9993): va
+[INFO] 17:19:29:235 Servidor/(9993:9993): a
+[INFO] 17:19:29:235 Servidor/(9993:9993): guardar
+[INFO] 17:19:29:235 Servidor/(9993:9993): en e
+[INFO] 17:19:29:235 Servidor/(9993:9993): el
+[INFO] 17:19:29:235 Servidor/(9993:9993): server
+[INFO] 17:19:29:235 Servidor/(9993:9993): cuando
+[INFO] 17:19:29:235 Servidor/(9993:9993): lo
+[INFO] 17:19:29:235 Servidor/(9993:9993): mande
+[ERROR] 17:19:29:235 Servidor/(9993:9993): el cliente se desconecto. Terminando servidor
